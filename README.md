@@ -1,7 +1,6 @@
 Before :
-![My Image](https://example.com/path-to-image.jpg)
-![My Image](https://example.com/path-to-image.jpg)
-![My Image](https://example.com/path-to-image.jpg)
+![My Image]((https://github.com/PAVANbingi/AboutUs/blob/main/src/assets/Screenshot%20(3047).png))
+![My Image]((https://github.com/PAVANbingi/AboutUs/blob/main/src/assets/Screenshot%20(3048).png))
 
 After :
 ![My Image](https://github.com/PAVANbingi/AboutUs/blob/main/src/assets/Screenshot%20(3039).png))
